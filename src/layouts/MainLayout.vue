@@ -24,7 +24,7 @@
           <q-btn flat no-caps label="Service Request" to="/service-request" />
           <q-btn flat no-caps label="Parts Request" to="/parts-request" />
           <q-btn flat no-caps label="Our Service" to="/our-service" />
-          <q-btn flat no-caps label="Service Areas" to="/service-areas" />
+          <q-btn flat no-caps label="Service Area" to="/service-areas" />
           <q-btn
             unelevated
             color="primary"

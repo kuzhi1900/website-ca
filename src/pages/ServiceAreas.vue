@@ -2,7 +2,7 @@
   <q-page class="q-py-xl bg-grey-1">
     <div class="container q-px-md">
       <div class="text-center q-mb-xl">
-        <div class="text-h3 text-weight-bold text-primary">Service Areas</div>
+        <div class="text-h3 text-weight-bold text-primary">Service Area</div>
         <div class="text-subtitle1 text-grey-7 q-mt-sm">
           Proudly serving Saskatoon and surrounding areas.
         </div>
